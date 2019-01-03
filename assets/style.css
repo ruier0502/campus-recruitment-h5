@@ -1,0 +1,13 @@
+.swiper-container {
+  width: 100%;
+  height: calc(100vh);
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+body .page {
+  width: 100%;
+  height: calc(100vh);
+}
